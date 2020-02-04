@@ -2,4 +2,4 @@
 Read (get string) for google classroom,
   Library: Beautiful Soup, 
 Compare strings,
-Twilio: alert "user",
+Twilio: alert "user".
