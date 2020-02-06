@@ -3,3 +3,11 @@ Read (get string) for google classroom,
   Library: Beautiful Soup, 
 Compare strings,
 Twilio: alert "user".
+## Input
+Lynn
+
+## Magic Happens
+Sam
+
+## Output
+Andrew
