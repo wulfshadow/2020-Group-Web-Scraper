@@ -1,1 +1,20 @@
-this will be the output file... eventually.....
+from twilio.rest import Client
+
+#define vairables here
+# Your Account SID from twilio.com/console
+account_sid = ""
+# Your Auth Token from twilio.com/console
+auth_token  = ""
+#Twilio number
+twilio_number = ""
+#My number
+output_number = ""
+
+client = Client(account_sid, auth_token)
+
+message = client.messages.create(
+    to=output_number, 
+    from_=twilio_number,
+    body="Hello from Python!")
+
+print(message.sid)
