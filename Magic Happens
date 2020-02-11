@@ -8,6 +8,5 @@ def get_text():
 
 current_text = get_text()
 
-
 # For my use later:
 # <span class="YVvGBb asQXV">vizceral posted a new assignment: test</span>
