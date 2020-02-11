@@ -1,4 +1,4 @@
-# Will be edited later to find specfic information
+#Will be edited later to find specfic information
 def get_text():
     page_response = requests.get(page_link, timeout=5)
     page_content = BeautifulSoup(page_response.content, "html.parser")
