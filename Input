@@ -1,5 +1,9 @@
+import requests 
 from bs4 import BeautifulSoup 
 from twilio.rest import Client
+import html2text
+import time
+
 #Option easy_install twilio/beautifulsoup4
 #Option python setup.py install 
 #pip install twilio 
