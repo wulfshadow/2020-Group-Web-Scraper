@@ -7,7 +7,7 @@ account_sid = ""
 auth_token  = ""
 #Twilio number
 twilio_number = ""
-#My number
+#User number
 output_number = ""
 #Message you want to output through sms
 output_message = "test"
