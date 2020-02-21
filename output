@@ -1,6 +1,6 @@
 from twilio.rest import Client
 
-#define vairables here
+#define variables here
 #Account SID
 account_sid = ""
 #Auth token
