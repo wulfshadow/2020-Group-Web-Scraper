@@ -1,0 +1,25 @@
+#first_result.contents[n] #the children: string embedded in for title of new assignment
+#if len(result) > (previous file)
+#Notify twilio 
+
+#import requests 
+
+#URL = 'https://classroom.google.com/u/0/c/NTEwNjQ0NDI3NDha'
+#page = requests.get(URL)
+
+
+
+
+
+
+#line_count = 1 #line we're on 
+#for one_a_tag in soup.findAll("div"):
+	#if line_count >= 36:
+		#link = one_a_tag["href"]
+		#download_url = + link 
+		#urllib.request.urlretrieve(downloand_url, './' + link[link.find("/turnstile_") + 1 :])
+		#time.sleep(30)      #requests every 30 sec
+
+	#line_count += 1
+	
+#https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
