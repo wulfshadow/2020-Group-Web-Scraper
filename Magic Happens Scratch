@@ -23,3 +23,11 @@
 	#line_count += 1
 	
 #https://towardsdatascience.com/how-to-web-scrape-with-python-in-4-minutes-bc49186a8460
+
+
+#Magic http://www.compjour.org/warmups/govt-text-releases/intro-to-bs4-lxml-parsing-wh-press-briefings/
+#Real Python https://realpython.com/beautiful-soup-web-scraper-python/ 
+# Google Classroom https://classroom.google.com/u/0/c/NTEwNjQ0NDI3NDha
+#Twilio Python Helper Library https://www.twilio.com/docs/libraries/python
+#bs4 https://www.pythonforbeginners.com/beautifulsoup/beautifulsoup-4-python 
+#Output https://www.twilio.com/docs/sms/send-messages 
