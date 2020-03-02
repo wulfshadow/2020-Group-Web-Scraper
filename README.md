@@ -1,13 +1,14 @@
 # 2020-Group-Web-Scraper
-Read (get string) for google classroom,
-  Library: Beautiful Soup, 
-Compare strings,
-Twilio: alert "user".
-## Input
+Scrapes Ms. Hintz's math website to check when she has adding a homework or test information. 
+
+## Assigned Parts:
+(Note that although specific parts were assigned, all group members contributed some to other parts as well.)
+
+#### Input
 Lynn
 
-## Magic Happens
+#### Magic Happens
 Sam
 
-## Output
+#### Output
 Andrew
