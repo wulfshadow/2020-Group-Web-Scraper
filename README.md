@@ -1,13 +1,18 @@
 # 2020-Group-Web-Scraper
-Read (get string) for google classroom,
+Read (get count) for site being scraped,
   Library: Beautiful Soup, 
-Compare strings,
+Compare tag count,
 Twilio: alert "user".
-## Input
+
+## For Testing/Using code on other site
+Change url to desired website in Input
+Change 'br' to desired tag in magicHappens
+
+### Input
 Lynn
 
-## Magic Happens
+### Magic Happens
 Sam
 
-## Output
+### Output
 Andrew
