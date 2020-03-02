@@ -2,7 +2,7 @@
 def get_count():
     page_response = requests.get(page_link, timeout=5)
     page_count = BeautifulSoup(page_response.content, "html.parser")
-    count = len(page_count.find_all('p'))
+    count = len(page_count.find_all('br'))
     print count
     return(count)
 
