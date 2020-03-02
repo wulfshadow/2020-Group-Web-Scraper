@@ -4,11 +4,11 @@ Scrapes Ms. Hintz's math website to check when she has adding a homework or test
 ## Assigned Parts:
 (Note that although specific parts were assigned, all group members contributed some to other parts as well.)
 
-### Input
+#### Input
 Lynn
 
-### Magic Happens
+#### Magic Happens
 Sam
 
-### Output
+#### Output
 Andrew
