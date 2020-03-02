@@ -1,11 +1,8 @@
 # 2020-Group-Web-Scraper
-Read (get count) for site being scraped,
-  Library: Beautiful Soup, 
-Compare tag count,
-Twilio: alert "user".
+Allows user to input site they want scraped and how often they want it to be scraped. Cannot currently change tag to be scraped, but that would a good feature to add.
 
-## For Testing/Using code on other site
-Change url to desired website in Input and change 'br' to desired tag in magicHappens
+## Assigned Parts:
+(Note that although specific parts were assigned, all group members contributed some to other parts as well.)
 
 ### Input
 Lynn
