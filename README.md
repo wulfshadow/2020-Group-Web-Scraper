@@ -5,7 +5,7 @@ Compare tag count,
 Twilio: alert "user".
 
 ## For Testing/Using code on other site
-Change url to desired website in Input
+Change url to desired website in Input/n
 Change 'br' to desired tag in magicHappens
 
 ### Input
