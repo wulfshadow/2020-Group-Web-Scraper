@@ -1,15 +1,16 @@
+#INPUT
 from bs4 import BeautifulSoup, Tag
 from twilio.rest import Client
 from HTMLParser import HTMLParser
 import requests 
 import time
 import urllib
+from varscraper import *
 
-#Option easy_install twilio/beautifulsoup4
-#Option python setup.py install 
-#pip install twilio 
-
-account_sid = "ACXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX" 
-auth_token = "your_auth_token"
 client = Client(account_sid, auth_token)
-page_link = "http://hmath.weebly.com/alg-3-4-analysis.html"
+page_link = raw_input("Enter a URL: ")
+page_link = page_link.strip()
+#page_link = 'https://wulfshadow.github.io/Holiday-Contest/'
+getWaitTime = raw_input("Number of seconds between searches:")
+time_wait = int(getWaitTime)
+
